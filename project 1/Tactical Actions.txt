@@ -1,0 +1,19 @@
+Tactical Actions
+- Bundling: Pair slow‑moving products with high‑demand items and sell them together at a discounted bundle price. This helps clear excess stock while boosting perceived value.
+- Discounts & Promotions: Offer targeted markdowns, flash sales, or loyalty program rewards to accelerate turnover.
+- Channel Diversification: Move excess stock through alternative channels (e.g., online marketplaces, outlet stores, B2B bulk sales).
+- Seasonal Tie‑ins: Reposition items with seasonal campaigns or rebranding to align with current demand cycles.
+- Cross‑selling: Train sales teams to recommend slow‑moving items alongside popular products.
+
+Strategic Inventory Management
+- Demand Forecasting: Use historical sales data and external factors (seasonality, promotions, competitor pricing) to better predict demand and avoid future overstock.
+- Safety Stock Optimization: Adjust safety stock levels to balance between avoiding stockouts and preventing excess.
+- KPIs & Monitoring: Track metrics like inventory turnover ratio, days sales of inventory (DSI), and gross margin return on investment (GMROI) to identify problem items early.
+- Supplier Collaboration: Negotiate flexible order quantities or return agreements with suppliers to reduce risk of overstock.
+- Lean Practices: Adopt just‑in‑time (JIT) or demand‑driven replenishment to minimize excess inventory.
+
+Risks & Trade‑offs
+- Heavy discounting can erode brand value if overused.
+- Bundling may reduce margins but is effective for clearing stock.
+- Over‑reliance on promotions can train customers to wait for discounts.
+- Cutting safety stock too aggressively risks stockouts and lost sales.

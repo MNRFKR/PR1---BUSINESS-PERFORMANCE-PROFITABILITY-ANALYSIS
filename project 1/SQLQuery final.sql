@@ -1,0 +1,7 @@
+SELECT TOP 5 * FROM [RAW SALES DATA]
+SELECT TOP 1 * FROM [RAW SALES DATA]
+SELECT 
+    Category, 
+    SUM([Units Sold] * CAST(Price AS FLOAT)) AS Revenue
+FROM [RAW SALES DATA]
+GROUP BY Category;
